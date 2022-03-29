@@ -1,4 +1,20 @@
 body{
 	background-color: #f4f1de;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Raleway', sans-serif;}
+h2{
+	color: #414833;
+	text-align: center;
+}
+h4{
+	color: #414833;
+}
+p{
+	color: #656d4a;
+}
+ol{
+	color: #656d4a;
+}
+img{
+	
+	border:  5px black;
 }
